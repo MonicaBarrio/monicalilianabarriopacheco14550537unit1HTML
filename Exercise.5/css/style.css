@@ -1,0 +1,31 @@
+body {
+	font-family:tahoma;	
+}
+
+#header {
+background: yellow;
+text-align: center;
+font-weight: bold;
+}
+
+#footer {
+text-align: center;
+}
+
+
+#right {
+    position: relative;
+	top: -460px;
+	float: right;
+	border: 3px;
+	border-style: dashed;
+	border-color: green;
+}
+
+#left {
+	display:block;
+	float:left;
+	border: 1px;
+	width: 200px;
+	height: 580px;
+}

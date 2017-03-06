@@ -1,0 +1,18 @@
+ body {
+ 	background: #CE93D8; 
+ }
+ h1 { text-align: center;
+  }
+ 
+ .displayed {
+    display: block;
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto }
+
+ .teal {
+ color: #009688; }   
+
+ .pink-darken{ 
+ color: #880E4F; }
